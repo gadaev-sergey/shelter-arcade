@@ -1,0 +1,26 @@
+{
+  "revision": "af47e6f05650",
+  "games": [
+    {
+      "id": "lumen",
+      "url": "https://gadaev-sergey.github.io/lumen/",
+      "version": "1.0.0",
+      "date": "2026-10-01",
+      "commit": "5755f15657951d56730a5614639ee79a883511b8"
+    },
+    {
+      "id": "perimeter",
+      "url": "https://gadaev-sergey.github.io/perimeter/",
+      "version": "1.0.0",
+      "date": "2026-10-01",
+      "commit": "132322dfba00bc961bcb79fb79838eade8be626c"
+    },
+    {
+      "id": "while-the-light-is-on",
+      "url": "https://gadaev-sergey.github.io/While-the-light-is-on/",
+      "version": "0.2.0",
+      "date": "2026-09-16",
+      "commit": "dee620c2acbc98d2d41276f4380771ea18bdb80e"
+    }
+  ]
+}
