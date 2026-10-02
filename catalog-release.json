@@ -1,6 +1,24 @@
 {
-  "revision": "42819ec32242",
+  "revision": "b299408e7dce",
   "games": [
+    {
+      "id": "zarevo",
+      "url": "https://gadaev-sergey.github.io/zarevo/",
+      "version": "1.0.0",
+      "date": "2026-10-02",
+      "commit": "1b8c9e6513c26dc60bcb0a075c998050bfa7c30e",
+      "usage": {
+        "inputTokens": 0,
+        "cachedInputTokens": 0,
+        "outputTokens": 0,
+        "reasoningOutputTokens": 0,
+        "totalTokens": 0,
+        "status": "unavailable",
+        "requests": 0,
+        "turns": 0,
+        "models": []
+      }
+    },
     {
       "id": "hellrift",
       "url": "https://gadaev-sergey.github.io/hellrift/",
@@ -8,23 +26,23 @@
       "date": "2026-10-02",
       "commit": "4f506e9ac990a9f6263d8e0b10c7ce3ebbaeea80",
       "usage": {
-        "inputTokens": 5031012,
-        "cachedInputTokens": 4895744,
-        "outputTokens": 38675,
-        "reasoningOutputTokens": 5815,
-        "totalTokens": 5069687,
+        "inputTokens": 6785268,
+        "cachedInputTokens": 6630016,
+        "outputTokens": 42219,
+        "reasoningOutputTokens": 7145,
+        "totalTokens": 6827487,
         "status": "recorded",
-        "updatedAt": "2026-10-02T06:56:55.748Z",
-        "requests": 47,
+        "updatedAt": "2026-10-02T07:00:24.848Z",
+        "requests": 58,
         "turns": 2,
         "models": [
           {
             "model": "gpt-6-astra",
-            "inputTokens": 5031012,
-            "cachedInputTokens": 4895744,
-            "outputTokens": 38675,
-            "reasoningOutputTokens": 5815,
-            "totalTokens": 5069687,
+            "inputTokens": 6785268,
+            "cachedInputTokens": 6630016,
+            "outputTokens": 42219,
+            "reasoningOutputTokens": 7145,
+            "totalTokens": 6827487,
             "percent": 100
           }
         ]
