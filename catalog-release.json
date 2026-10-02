@@ -1,6 +1,35 @@
 {
-  "revision": "7401cd7aaca8",
+  "revision": "1f22357c8c8a",
   "games": [
+    {
+      "id": "merzlota",
+      "url": "https://gadaev-sergey.github.io/merzlota/",
+      "version": "1.0.0",
+      "date": "2026-10-02",
+      "commit": "e4fad23d776cd3cda74fbddff2eb946d006068d3",
+      "usage": {
+        "inputTokens": 2172927,
+        "cachedInputTokens": 2134647,
+        "outputTokens": 38711,
+        "reasoningOutputTokens": 20284,
+        "totalTokens": 2211638,
+        "status": "recorded",
+        "updatedAt": "2026-10-02T12:03:16.330Z",
+        "requests": 6,
+        "turns": 1,
+        "models": [
+          {
+            "model": "claude-opus-5-5",
+            "inputTokens": 2172927,
+            "cachedInputTokens": 2134647,
+            "outputTokens": 38711,
+            "reasoningOutputTokens": 20284,
+            "totalTokens": 2211638,
+            "percent": 100
+          }
+        ]
+      }
+    },
     {
       "id": "caravan",
       "url": "https://gadaev-sergey.github.io/caravan/",
@@ -8,23 +37,23 @@
       "date": "2026-10-02",
       "commit": "4f755132649093b3817ba7bc97aa26bbaed81339",
       "usage": {
-        "inputTokens": 3155593,
-        "cachedInputTokens": 3052160,
-        "outputTokens": 40773,
-        "reasoningOutputTokens": 7363,
-        "totalTokens": 3196366,
+        "inputTokens": 3890649,
+        "cachedInputTokens": 3782016,
+        "outputTokens": 43557,
+        "reasoningOutputTokens": 8525,
+        "totalTokens": 3934206,
         "status": "recorded",
-        "updatedAt": "2026-10-02T13:12:17.440Z",
-        "requests": 36,
+        "updatedAt": "2026-10-02T13:15:01.089Z",
+        "requests": 42,
         "turns": 1,
         "models": [
           {
             "model": "gpt-6-astra",
-            "inputTokens": 3155593,
-            "cachedInputTokens": 3052160,
-            "outputTokens": 40773,
-            "reasoningOutputTokens": 7363,
-            "totalTokens": 3196366,
+            "inputTokens": 3890649,
+            "cachedInputTokens": 3782016,
+            "outputTokens": 43557,
+            "reasoningOutputTokens": 8525,
+            "totalTokens": 3934206,
             "percent": 100
           }
         ]
