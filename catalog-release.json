@@ -1,22 +1,33 @@
 {
-  "revision": "b299408e7dce",
+  "revision": "a691d6118eb0",
   "games": [
     {
       "id": "zarevo",
       "url": "https://gadaev-sergey.github.io/zarevo/",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "date": "2026-10-02",
-      "commit": "1b8c9e6513c26dc60bcb0a075c998050bfa7c30e",
+      "commit": "9ae87cf8c2118de8845bbc66807e54d49e1028dc",
       "usage": {
-        "inputTokens": 0,
-        "cachedInputTokens": 0,
-        "outputTokens": 0,
-        "reasoningOutputTokens": 0,
-        "totalTokens": 0,
-        "status": "unavailable",
-        "requests": 0,
-        "turns": 0,
-        "models": []
+        "inputTokens": 22337259,
+        "cachedInputTokens": 22049447,
+        "outputTokens": 142889,
+        "reasoningOutputTokens": 43810,
+        "totalTokens": 22480148,
+        "status": "recorded",
+        "updatedAt": "2026-10-02T09:10:50.625Z",
+        "requests": 101,
+        "turns": 3,
+        "models": [
+          {
+            "model": "claude-opus-5-5",
+            "inputTokens": 22337259,
+            "cachedInputTokens": 22049447,
+            "outputTokens": 142889,
+            "reasoningOutputTokens": 43810,
+            "totalTokens": 22480148,
+            "percent": 100
+          }
+        ]
       }
     },
     {
