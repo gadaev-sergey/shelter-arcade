@@ -1,6 +1,35 @@
 {
-  "revision": "45ab97d3c6df",
+  "revision": "3a8b952d9b69",
   "games": [
+    {
+      "id": "spire",
+      "url": "https://gadaev-sergey.github.io/spire/",
+      "version": "0.1.0",
+      "date": "2026-10-02",
+      "commit": "36400fb80302fd82ec73b42bda9284b012f7dd31",
+      "usage": {
+        "inputTokens": 41414358,
+        "cachedInputTokens": 41134840,
+        "outputTokens": 181719,
+        "reasoningOutputTokens": 59937,
+        "totalTokens": 41596077,
+        "status": "recorded",
+        "updatedAt": "2026-10-02T16:19:48.851Z",
+        "requests": 152,
+        "turns": 1,
+        "models": [
+          {
+            "model": "claude-opus-5-5",
+            "inputTokens": 41414358,
+            "cachedInputTokens": 41134840,
+            "outputTokens": 181719,
+            "reasoningOutputTokens": 59937,
+            "totalTokens": 41596077,
+            "percent": 100
+          }
+        ]
+      }
+    },
     {
       "id": "merzlota",
       "url": "https://gadaev-sergey.github.io/merzlota/",
@@ -8,23 +37,23 @@
       "date": "2026-10-02",
       "commit": "e4fad23d776cd3cda74fbddff2eb946d006068d3",
       "usage": {
-        "inputTokens": 21671470,
-        "cachedInputTokens": 21182129,
-        "outputTokens": 118595,
-        "reasoningOutputTokens": 36548,
-        "totalTokens": 21790065,
+        "inputTokens": 23146102,
+        "cachedInputTokens": 22654207,
+        "outputTokens": 121232,
+        "reasoningOutputTokens": 36725,
+        "totalTokens": 23267334,
         "status": "recorded",
-        "updatedAt": "2026-10-02T14:02:13.733Z",
-        "requests": 50,
+        "updatedAt": "2026-10-02T14:04:20.997Z",
+        "requests": 53,
         "turns": 2,
         "models": [
           {
             "model": "claude-opus-5-5",
-            "inputTokens": 21671470,
-            "cachedInputTokens": 21182129,
-            "outputTokens": 118595,
-            "reasoningOutputTokens": 36548,
-            "totalTokens": 21790065,
+            "inputTokens": 23146102,
+            "cachedInputTokens": 22654207,
+            "outputTokens": 121232,
+            "reasoningOutputTokens": 36725,
+            "totalTokens": 23267334,
             "percent": 100
           }
         ]
