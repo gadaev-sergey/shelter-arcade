@@ -1,6 +1,35 @@
 {
-  "revision": "916a9fa16d36",
+  "revision": "42819ec32242",
   "games": [
+    {
+      "id": "hellrift",
+      "url": "https://gadaev-sergey.github.io/hellrift/",
+      "version": "1.0.0",
+      "date": "2026-10-02",
+      "commit": "4f506e9ac990a9f6263d8e0b10c7ce3ebbaeea80",
+      "usage": {
+        "inputTokens": 5031012,
+        "cachedInputTokens": 4895744,
+        "outputTokens": 38675,
+        "reasoningOutputTokens": 5815,
+        "totalTokens": 5069687,
+        "status": "recorded",
+        "updatedAt": "2026-10-02T06:56:55.748Z",
+        "requests": 47,
+        "turns": 2,
+        "models": [
+          {
+            "model": "gpt-6-astra",
+            "inputTokens": 5031012,
+            "cachedInputTokens": 4895744,
+            "outputTokens": 38675,
+            "reasoningOutputTokens": 5815,
+            "totalTokens": 5069687,
+            "percent": 100
+          }
+        ]
+      }
+    },
     {
       "id": "tidehaven",
       "url": "https://gadaev-sergey.github.io/tidehaven/",
@@ -8,23 +37,23 @@
       "date": "2026-10-02",
       "commit": "b936dcfce697142bb27aea857c7c4601e07c730d",
       "usage": {
-        "inputTokens": 3582000,
-        "cachedInputTokens": 3407488,
-        "outputTokens": 36492,
-        "reasoningOutputTokens": 5384,
-        "totalTokens": 3618492,
+        "inputTokens": 4571064,
+        "cachedInputTokens": 4360320,
+        "outputTokens": 38408,
+        "reasoningOutputTokens": 6028,
+        "totalTokens": 4609472,
         "status": "recorded",
-        "updatedAt": "2026-10-01T21:38:08.547Z",
-        "requests": 37,
+        "updatedAt": "2026-10-01T22:41:10.959Z",
+        "requests": 44,
         "turns": 2,
         "models": [
           {
             "model": "gpt-6-astra",
-            "inputTokens": 3582000,
-            "cachedInputTokens": 3407488,
-            "outputTokens": 36492,
-            "reasoningOutputTokens": 5384,
-            "totalTokens": 3618492,
+            "inputTokens": 4571064,
+            "cachedInputTokens": 4360320,
+            "outputTokens": 38408,
+            "reasoningOutputTokens": 6028,
+            "totalTokens": 4609472,
             "percent": 100
           }
         ]
