@@ -1,30 +1,30 @@
 {
-  "revision": "ff5002f1fa70",
+  "revision": "7401cd7aaca8",
   "games": [
     {
       "id": "caravan",
       "url": "https://gadaev-sergey.github.io/caravan/",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "date": "2026-10-02",
-      "commit": "1d42bffa7bdb27d764613efc5eac6b1eb31e6aa0",
+      "commit": "4f755132649093b3817ba7bc97aa26bbaed81339",
       "usage": {
-        "inputTokens": 2681683,
-        "cachedInputTokens": 2581632,
-        "outputTokens": 39228,
-        "reasoningOutputTokens": 6807,
-        "totalTokens": 2720911,
+        "inputTokens": 3155593,
+        "cachedInputTokens": 3052160,
+        "outputTokens": 40773,
+        "reasoningOutputTokens": 7363,
+        "totalTokens": 3196366,
         "status": "recorded",
-        "updatedAt": "2026-10-02T13:10:32.674Z",
-        "requests": 32,
+        "updatedAt": "2026-10-02T13:12:17.440Z",
+        "requests": 36,
         "turns": 1,
         "models": [
           {
             "model": "gpt-6-astra",
-            "inputTokens": 2681683,
-            "cachedInputTokens": 2581632,
-            "outputTokens": 39228,
-            "reasoningOutputTokens": 6807,
-            "totalTokens": 2720911,
+            "inputTokens": 3155593,
+            "cachedInputTokens": 3052160,
+            "outputTokens": 40773,
+            "reasoningOutputTokens": 7363,
+            "totalTokens": 3196366,
             "percent": 100
           }
         ]
