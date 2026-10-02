@@ -1,30 +1,30 @@
 {
-  "revision": "3a8b952d9b69",
+  "revision": "a77a7d160bb9",
   "games": [
     {
       "id": "spire",
       "url": "https://gadaev-sergey.github.io/spire/",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "date": "2026-10-02",
-      "commit": "36400fb80302fd82ec73b42bda9284b012f7dd31",
+      "commit": "f8cf3c1bf07c0a58a59cf3d741c5da10fda3471b",
       "usage": {
-        "inputTokens": 41414358,
-        "cachedInputTokens": 41134840,
-        "outputTokens": 181719,
-        "reasoningOutputTokens": 59937,
-        "totalTokens": 41596077,
+        "inputTokens": 52303934,
+        "cachedInputTokens": 51648297,
+        "outputTokens": 210429,
+        "reasoningOutputTokens": 73026,
+        "totalTokens": 52514363,
         "status": "recorded",
-        "updatedAt": "2026-10-02T16:19:48.851Z",
-        "requests": 152,
-        "turns": 1,
+        "updatedAt": "2026-10-02T18:53:58.322Z",
+        "requests": 180,
+        "turns": 2,
         "models": [
           {
             "model": "claude-opus-5-5",
-            "inputTokens": 41414358,
-            "cachedInputTokens": 41134840,
-            "outputTokens": 181719,
-            "reasoningOutputTokens": 59937,
-            "totalTokens": 41596077,
+            "inputTokens": 52303934,
+            "cachedInputTokens": 51648297,
+            "outputTokens": 210429,
+            "reasoningOutputTokens": 73026,
+            "totalTokens": 52514363,
             "percent": 100
           }
         ]
