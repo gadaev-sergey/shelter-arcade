@@ -1,5 +1,5 @@
 {
-  "revision": "49e9c674d431",
+  "revision": "feb4a91181ca",
   "games": [
     {
       "id": "bastion",
@@ -8,23 +8,23 @@
       "date": "2026-10-03",
       "commit": "51f952e263b5e3a9071926426df4d29700c4a80c",
       "usage": {
-        "inputTokens": 12682430,
-        "cachedInputTokens": 11904256,
-        "outputTokens": 73133,
-        "reasoningOutputTokens": 13440,
-        "totalTokens": 12755563,
+        "inputTokens": 14023241,
+        "cachedInputTokens": 13224576,
+        "outputTokens": 75454,
+        "reasoningOutputTokens": 13992,
+        "totalTokens": 14098695,
         "status": "recorded",
-        "updatedAt": "2026-10-03T16:04:16.653Z",
-        "requests": 95,
+        "updatedAt": "2026-10-03T16:07:12.408Z",
+        "requests": 113,
         "turns": 4,
         "models": [
           {
             "model": "gpt-6-astra",
-            "inputTokens": 12682430,
-            "cachedInputTokens": 11904256,
-            "outputTokens": 73133,
-            "reasoningOutputTokens": 13440,
-            "totalTokens": 12755563,
+            "inputTokens": 14023241,
+            "cachedInputTokens": 13224576,
+            "outputTokens": 75454,
+            "reasoningOutputTokens": 13992,
+            "totalTokens": 14098695,
             "percent": 100
           }
         ]
@@ -33,9 +33,9 @@
     {
       "id": "spire",
       "url": "https://gadaev-sergey.github.io/spire/",
-      "version": "0.6.2",
+      "version": "0.7.0",
       "date": "2026-10-03",
-      "commit": "21709afdd68fea8af32a5b1b15bd38e70481934a",
+      "commit": "4c036fa0b65f673e5049e74e850b7a616f703467",
       "usage": {
         "inputTokens": 148089660,
         "cachedInputTokens": 145812190,
