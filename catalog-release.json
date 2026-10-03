@@ -1,5 +1,5 @@
 {
-  "revision": "9e43824a0977",
+  "revision": "1d83c03f34dc",
   "games": [
     {
       "id": "bastion",
@@ -8,23 +8,23 @@
       "date": "2026-10-03",
       "commit": "dcee6c9715808dffc1a3d5941b0dd7ae67333cc6",
       "usage": {
-        "inputTokens": 5752439,
-        "cachedInputTokens": 5612672,
-        "outputTokens": 45531,
-        "reasoningOutputTokens": 6957,
-        "totalTokens": 5797970,
+        "inputTokens": 7831535,
+        "cachedInputTokens": 7541760,
+        "outputTokens": 48188,
+        "reasoningOutputTokens": 8347,
+        "totalTokens": 7879723,
         "status": "recorded",
-        "updatedAt": "2026-10-03T00:04:19.517Z",
-        "requests": 49,
-        "turns": 1,
+        "updatedAt": "2026-10-03T10:19:51.789Z",
+        "requests": 62,
+        "turns": 2,
         "models": [
           {
             "model": "gpt-6-astra",
-            "inputTokens": 5752439,
-            "cachedInputTokens": 5612672,
-            "outputTokens": 45531,
-            "reasoningOutputTokens": 6957,
-            "totalTokens": 5797970,
+            "inputTokens": 7831535,
+            "cachedInputTokens": 7541760,
+            "outputTokens": 48188,
+            "reasoningOutputTokens": 8347,
+            "totalTokens": 7879723,
             "percent": 100
           }
         ]
@@ -33,27 +33,27 @@
     {
       "id": "spire",
       "url": "https://gadaev-sergey.github.io/spire/",
-      "version": "0.3.0",
+      "version": "0.4.0",
       "date": "2026-10-03",
-      "commit": "f97fced651baf6f9053690bd32fc46d8bfda8454",
+      "commit": "ec27192d07162e0245e7a49861d34e9ed8d6458c",
       "usage": {
-        "inputTokens": 87853165,
-        "cachedInputTokens": 86891578,
-        "outputTokens": 403161,
-        "reasoningOutputTokens": 152442,
-        "totalTokens": 88256326,
+        "inputTokens": 101180954,
+        "cachedInputTokens": 99787338,
+        "outputTokens": 439905,
+        "reasoningOutputTokens": 168217,
+        "totalTokens": 101620859,
         "status": "recorded",
-        "updatedAt": "2026-10-02T23:55:10.008Z",
-        "requests": 310,
-        "turns": 5,
+        "updatedAt": "2026-10-03T10:25:44.737Z",
+        "requests": 340,
+        "turns": 6,
         "models": [
           {
             "model": "claude-opus-5-5",
-            "inputTokens": 87853165,
-            "cachedInputTokens": 86891578,
-            "outputTokens": 403161,
-            "reasoningOutputTokens": 152442,
-            "totalTokens": 88256326,
+            "inputTokens": 101180954,
+            "cachedInputTokens": 99787338,
+            "outputTokens": 439905,
+            "reasoningOutputTokens": 168217,
+            "totalTokens": 101620859,
             "percent": 100
           }
         ]
