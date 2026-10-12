@@ -1,5 +1,5 @@
 {
-  "revision": "c7cb9c8c6144",
+  "revision": "b9c2587ebdce",
   "games": [
     {
       "id": "nova",
@@ -8,23 +8,23 @@
       "date": "2026-10-07",
       "commit": "93dcf32bc690a366086902dc79befb48c71334af",
       "usage": {
-        "inputTokens": 42557445,
-        "cachedInputTokens": 42114055,
-        "outputTokens": 275906,
-        "reasoningOutputTokens": 119272,
-        "totalTokens": 42833351,
+        "inputTokens": 45481679,
+        "cachedInputTokens": 45029860,
+        "outputTokens": 281235,
+        "reasoningOutputTokens": 120335,
+        "totalTokens": 45762914,
         "status": "recorded",
-        "updatedAt": "2026-10-07T00:23:18.162Z",
-        "requests": 133,
+        "updatedAt": "2026-10-07T00:25:46.680Z",
+        "requests": 139,
         "turns": 1,
         "models": [
           {
             "model": "claude-opus-5-5",
-            "inputTokens": 42557445,
-            "cachedInputTokens": 42114055,
-            "outputTokens": 275906,
-            "reasoningOutputTokens": 119272,
-            "totalTokens": 42833351,
+            "inputTokens": 45481679,
+            "cachedInputTokens": 45029860,
+            "outputTokens": 281235,
+            "reasoningOutputTokens": 120335,
+            "totalTokens": 45762914,
             "percent": 100
           }
         ]
@@ -323,19 +323,30 @@
     {
       "id": "while-the-light-is-on",
       "url": "https://gadaev-sergey.github.io/While-the-light-is-on/",
-      "version": "0.2.0",
-      "date": "2026-09-16",
-      "commit": "dee620c2acbc98d2d41276f4380771ea18bdb80e",
+      "version": "0.3.0",
+      "date": "2026-10-12",
+      "commit": "fed27f0b5ed869e3b0d0ae921109e1e3e2e5b0a6",
       "usage": {
-        "inputTokens": 0,
-        "cachedInputTokens": 0,
-        "outputTokens": 0,
-        "reasoningOutputTokens": 0,
-        "totalTokens": 0,
-        "status": "unavailable",
-        "requests": 0,
-        "turns": 0,
-        "models": []
+        "inputTokens": 54407877,
+        "cachedInputTokens": 53882444,
+        "outputTokens": 270477,
+        "reasoningOutputTokens": 102640,
+        "totalTokens": 54678354,
+        "status": "recorded",
+        "updatedAt": "2026-10-12T09:29:03.930Z",
+        "requests": 144,
+        "turns": 1,
+        "models": [
+          {
+            "model": "claude-opus-5-5",
+            "inputTokens": 54407877,
+            "cachedInputTokens": 53882444,
+            "outputTokens": 270477,
+            "reasoningOutputTokens": 102640,
+            "totalTokens": 54678354,
+            "percent": 100
+          }
+        ]
       }
     }
   ]
