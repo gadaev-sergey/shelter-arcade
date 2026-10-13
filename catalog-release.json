@@ -1,5 +1,5 @@
 {
-  "revision": "b4e14fdf0785",
+  "revision": "2486f4ed8e13",
   "games": [
     {
       "id": "nova",
@@ -352,27 +352,27 @@
     {
       "id": "zherlo",
       "url": "https://gadaev-sergey.github.io/zherlo/",
-      "version": "0.3.0",
+      "version": "0.4.0",
       "date": "2026-10-13",
-      "commit": "6ad4037d0973c0502efbaa80ba65d598e41eb2d1",
+      "commit": "747377438069145f8154e4344e7c88bb31e47c15",
       "usage": {
-        "inputTokens": 229468664,
-        "cachedInputTokens": 226859776,
-        "outputTokens": 783463,
-        "reasoningOutputTokens": 298866,
-        "totalTokens": 230252127,
+        "inputTokens": 354016782,
+        "cachedInputTokens": 350723402,
+        "outputTokens": 1147511,
+        "reasoningOutputTokens": 426955,
+        "totalTokens": 355164293,
         "status": "recorded",
-        "updatedAt": "2026-10-13T07:47:27.916Z",
-        "requests": 473,
-        "turns": 10,
+        "updatedAt": "2026-10-13T13:10:14.258Z",
+        "requests": 737,
+        "turns": 11,
         "models": [
           {
             "model": "claude-opus-5-5",
-            "inputTokens": 229468664,
-            "cachedInputTokens": 226859776,
-            "outputTokens": 783463,
-            "reasoningOutputTokens": 298866,
-            "totalTokens": 230252127,
+            "inputTokens": 354016782,
+            "cachedInputTokens": 350723402,
+            "outputTokens": 1147511,
+            "reasoningOutputTokens": 426955,
+            "totalTokens": 355164293,
             "percent": 100
           }
         ]
