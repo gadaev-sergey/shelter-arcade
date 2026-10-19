@@ -1,5 +1,5 @@
 {
-  "revision": "172684a39c5d",
+  "revision": "7ab59490c082",
   "games": [
     {
       "id": "nova",
@@ -352,9 +352,9 @@
     {
       "id": "zherlo",
       "url": "https://gadaev-sergey.github.io/zherlo/",
-      "version": "1.1.0",
-      "date": "2026-10-14",
-      "commit": "f649a9d773fa734ed91d44be63ae87b52053681c",
+      "version": "1.1.1",
+      "date": "2026-10-20",
+      "commit": "23c563018512f6aaedf07ade65cd0e744d603e2b",
       "usage": {
         "inputTokens": 470120308,
         "cachedInputTokens": 464796252,
