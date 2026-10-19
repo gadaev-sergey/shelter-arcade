@@ -1,5 +1,5 @@
 {
-  "revision": "311c1f0be1c1",
+  "revision": "172684a39c5d",
   "games": [
     {
       "id": "nova",
@@ -381,27 +381,27 @@
     {
       "id": "gornilo",
       "url": "https://gadaev-sergey.github.io/gornilo/",
-      "version": "0.13.0",
-      "date": "2026-10-18",
-      "commit": "ccd4427af3d6c40301525d5b1ae8e0b3899ce138",
+      "version": "0.13.1",
+      "date": "2026-10-20",
+      "commit": "5da0300aa71919a8b17dabdb636700a54f9eb198",
       "usage": {
-        "inputTokens": 366738271,
-        "cachedInputTokens": 362645363,
-        "outputTokens": 1242008,
-        "reasoningOutputTokens": 465916,
-        "totalTokens": 367980279,
+        "inputTokens": 380346548,
+        "cachedInputTokens": 375713529,
+        "outputTokens": 1262722,
+        "reasoningOutputTokens": 472914,
+        "totalTokens": 381609270,
         "status": "recorded",
-        "updatedAt": "2026-10-18T14:54:47.358Z",
-        "requests": 948,
-        "turns": 13,
+        "updatedAt": "2026-10-19T22:24:17.995Z",
+        "requests": 972,
+        "turns": 14,
         "models": [
           {
             "model": "claude-opus-5-5",
-            "inputTokens": 366738271,
-            "cachedInputTokens": 362645363,
-            "outputTokens": 1242008,
-            "reasoningOutputTokens": 465916,
-            "totalTokens": 367980279,
+            "inputTokens": 380346548,
+            "cachedInputTokens": 375713529,
+            "outputTokens": 1262722,
+            "reasoningOutputTokens": 472914,
+            "totalTokens": 381609270,
             "percent": 100
           }
         ]
